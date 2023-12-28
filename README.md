@@ -7,11 +7,11 @@ The Items list are as follows
 
 2.Customized Bouquets
 
-3.Greeting cards
+3.Greeting cards and letters
 
-4.Cakes and Chocolates
+4.Cakes ,Chocolates and Puddings
 
-ReactJS will be used to implement the front end part of this application
+React will be used to implement the front end part of this application and Express and MongoDB for RESTful API services and database respectively
 
 #TODO
 
